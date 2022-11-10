@@ -1,0 +1,10 @@
+.btn-edicion{
+    background-color: rgb(101, 10, 10);
+    color: honeydew;
+
+    &:hover{
+        background-color: white;
+        border: black 2px solid;
+        color: rgb(21, 22, 75);
+    }
+}

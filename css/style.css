@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.btn-edicion {
+  background-color: rgb(101, 10, 10);
+  color: honeydew;
+}
+.btn-edicion:hover {
+  background-color: white;
+  border: black 2px solid;
+  color: rgb(21, 22, 75);
+}
+
+header {
+  background-color: #839192;
+  padding-bottom: -20px;
+}
+
+main {
+  background: #5F6A6A;
+  margin-top: -15px;
+}
+
+footer {
+  background-color: #3e4545;
+}
+
+.row {
+  text-align: center;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */

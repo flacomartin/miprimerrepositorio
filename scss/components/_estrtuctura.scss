@@ -1,0 +1,21 @@
+header{
+    background-color: $back-color;
+    padding-bottom: -20px;
+}
+main{
+    background: $main-color;
+    margin-top: -15px;
+}
+footer {
+    background-color: #3e4545;
+  }
+
+.row{
+    
+    text-align: center;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 100%;
+}
