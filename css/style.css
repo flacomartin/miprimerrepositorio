@@ -21,15 +21,19 @@ header {
 
 main {
   background: #5F6A6A;
-  margin-top: -15px;
+  margin-top: -20px;
 }
 
 footer {
-  background-color: #3e4545;
+  background: linear-gradient(#3e4545 55%, rgb(29, 29, 29));
 }
 
 .row {
   text-align: center;
+}
+
+.sombra {
+  background: radial-gradient(white, #5F6A6A);
 }
 
 .container {
